@@ -1,0 +1,6 @@
+{
+  "name": "Event Management System",
+  "description": "A comprehensive, beautifully designed academic-grade Event Management platform featuring secure user booking, seat selection, custom QR ticket generation, integrated card payment, and a responsive admin analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
